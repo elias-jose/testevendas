@@ -4,7 +4,7 @@ var telemoveis = [
       descricao: "Iphone 14 Pro MAX",
       nome: "Apple",
       preco: "1,1200,000",
-      imagem: "imgs/iPhone-14-Pro-MAX.png",
+      imagem: "./iPhone-14-Pro-MAX.png",
    },
 
    {
@@ -12,7 +12,7 @@ var telemoveis = [
       descricao: "Samsung Galaxy S22 Ultra",
       nome: "Samsung",
       preco: "72,100",
-      imagem: "imgs/Samsung-Galaxy-S22-Ultra.png",
+      imagem: "./Samsung-Galaxy-S22-Ultra.png",
    },
 
    {
@@ -20,7 +20,7 @@ var telemoveis = [
       descricao: "Iphone 8",
       nome: "Apple",
       preco: "93,000",
-      imagem: "imgs/img1.jpg",
+      imagem: "./img1.jpg",
    },
 
    {
@@ -28,7 +28,7 @@ var telemoveis = [
       descricao: "Iphone X",
       nome: "Apple",
       preco: "120,000",
-      imagem: "imgs/img2.jpg",
+      imagem: "./img2.jpg",
    },
 
    {
@@ -36,7 +36,7 @@ var telemoveis = [
       descricao: "Samsung Galaxy A10 32GB",
       nome: "Samsung",
       preco: "100,000",
-      imagem: "imgs/img7.jpg",
+      imagem: "./img7.jpg",
    },
 
    {
@@ -44,7 +44,7 @@ var telemoveis = [
       descricao: "Samsung Galaxy A31",
       nome: "Samsung",
       preco: "120,000",
-      imagem: "imgs/img8.jpg",
+      imagem: "./img8.jpg",
    },
 
    {
@@ -52,7 +52,7 @@ var telemoveis = [
       descricao: "Samsung Galaxy Edge S7",
       nome: "Samsung",
       preco: "80,000",
-      imagem: "imgs/img9.jpg",
+      imagem: "./img9.jpg",
    },
 ];
 
@@ -62,7 +62,7 @@ var computadores = [
       descricao: "PC ACER",
       nome: "Computador",
       preco: "93,000",
-      imagem: "imgs/img3.jpg",
+      imagem: "./img3.jpg",
    },
 
    {
@@ -70,7 +70,7 @@ var computadores = [
       descricao: "PC LENOVO",
       nome: "Computador",
       preco: "120,000",
-      imagem: "imgs/img6.jpg",
+      imagem: "./img6.jpg",
    },
 
    {
@@ -78,7 +78,7 @@ var computadores = [
       descricao: "PC HP",
       nome: "Computador",
       preco: "100,000",
-      imagem: "imgs/img5.jpg",
+      imagem: "./img5.jpg",
    },
 
    {
@@ -86,7 +86,7 @@ var computadores = [
       descricao: "PC DELL",
       nome: "Computador",
       preco: "120,000",
-      imagem: "imgs/img4.jpg",
+      imagem: "./img4.jpg",
    },
 ];
 
